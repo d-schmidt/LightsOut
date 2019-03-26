@@ -1,0 +1,5 @@
+# Set the default behavior
+* text=auto
+
+*.java text
+LICENSE text

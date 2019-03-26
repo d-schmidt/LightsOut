@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="night_bright_text">current brightness: %1$d</string>
+</resources>
